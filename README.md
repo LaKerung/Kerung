@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MrKerung
+- 👋 Hi, I’m Kerung
 - 👀 I’m interested in QBus scripts
 - 🌱 I’m currently learning QBus
 
